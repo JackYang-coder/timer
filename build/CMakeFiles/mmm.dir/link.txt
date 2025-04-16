@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/mmm.dir/main.cpp.o -o mmm

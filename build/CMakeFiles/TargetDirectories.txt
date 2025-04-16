@@ -1,0 +1,3 @@
+/home/recoder/模板/timer/build/CMakeFiles/mmm.dir
+/home/recoder/模板/timer/build/CMakeFiles/edit_cache.dir
+/home/recoder/模板/timer/build/CMakeFiles/rebuild_cache.dir
